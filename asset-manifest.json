@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/social-app/static/js/main.15017314.js",
+    "main.js": "/social-app/static/js/main.c3a99489.js",
     "index.html": "/social-app/index.html",
-    "main.15017314.js.map": "/social-app/static/js/main.15017314.js.map"
+    "main.c3a99489.js.map": "/social-app/static/js/main.c3a99489.js.map"
   },
   "entrypoints": [
-    "static/js/main.15017314.js"
+    "static/js/main.c3a99489.js"
   ]
 }
