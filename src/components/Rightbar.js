@@ -93,7 +93,7 @@ function Rightbar() {
           latest Message
         </Typography>
         <List
-          sx={{ width: "100%", maxWidth: 360, bgcolor: "background.paper" ,overflow:'scroll' }}
+          sx={{ width: "100%", maxWidth: 360, bgcolor: "background.paper"  }}
         >
           <ListItem alignItems="flex-start">
             <ListItemAvatar>
